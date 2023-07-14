@@ -1,0 +1,3 @@
+https://nodejs.org/en ( Node.js )
+https://www.typescriptlang.org/download (Typescript)
+https://code.visualstudio.com/ (Visual Studio)
